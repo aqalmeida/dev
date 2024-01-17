@@ -1,4 +1,10 @@
-youtube.com
-www.youtube.com
-(\.|^)youtube\.com$
-(\.|^).youtube\.com$
+#bloqueios
+mc.corel.com
+apps.corel.com
+origin-mc.corel.com
+iws.corel.com
+compute-1.amazonaws.com
+ipm.corel.com
+dev1.ipm.corel.public.corel.net
+www.corelstore.com
+pp.corel.com
