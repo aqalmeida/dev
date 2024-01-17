@@ -8,3 +8,5 @@ ipm.corel.com
 dev1.ipm.corel.public.corel.net
 www.corelstore.com
 pp.corel.com
+www.amazon.com.br
+amazon.com.br
