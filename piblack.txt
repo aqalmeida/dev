@@ -1,12 +1,14 @@
 #bloqueios
-mc.corel.com
-apps.corel.com
-origin-mc.corel.com
-iws.corel.com
-compute-1.amazonaws.com
-ipm.corel.com
-dev1.ipm.corel.public.corel.net
-www.corelstore.com
-pp.corel.com
-www.amazon.com.br
-amazon.com.br
+0.0.0.0  mc.corel.com
+0.0.0.0  apps.corel.com
+0.0.0.0  origin-mc.corel.com
+0.0.0.0  iws.corel.com
+0.0.0.0  compute-1.amazonaws.com
+0.0.0.0  ipm.corel.com
+0.0.0.0  dev1.ipm.corel.public.corel.net
+0.0.0.0  www.corelstore.com
+0.0.0.0  pp.corel.com
+0.0.0.0  www.amazon.com.br
+0.0.0.0  amazon.com.br
+0.0.0.0  www.terra.com.br
+0.0.0.0  terra.com.br
