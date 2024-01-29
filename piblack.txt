@@ -12,3 +12,4 @@
 0.0.0.0  amazon.com.br
 0.0.0.0  www.terra.com.br
 0.0.0.0  terra.com.br
+0.0.0.0 cloud.coreldraw.app
